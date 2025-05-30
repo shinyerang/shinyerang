@@ -1,16 +1,19 @@
 ## Hi there 👋
 
 <!--
-**shinyerang/shinyerang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨**shinyerang/shinyerang**✨
+깃허브 테스트중이예요!
+열심히 공부해볼게요!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 통계와 SQL,ADSP을 공부하고 있어요
+- 🌱 이쪽은 전공이 아니고 자연과학계열에서 대학을 보냈어요
+- 👯 부트캠프를 다녔지만 비전공이라 어느 분야로 갈지 생각도 제대로 보내고 시간만 보냈답니다
+- 📫 많은 시간 속에서 갈피를 잡지 못하다 분석쪽으로 공부를 해보기로 하고 준비중이예요
+- 🤔 독학이라 어려움은 많지만 주변 도움주는 사람들 속에서 열심히 공부중이예요!
+- 💬 읽어주셔서 감사합니다!
+- 😄 유능한 분석가가 되어보겠습니다
+- ⚡ 화이팅!
+--> SQL과 PYTHON에 관심이 많아요
+    통계책을 읽고 있어요
+    Machin Learning을 배웠지만 잘하지 못해 도전할 계획이예요
+    Jupyter와 DataCrawling을 배웠어요
